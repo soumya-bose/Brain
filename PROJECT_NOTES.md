@@ -1,6 +1,6 @@
-# Day 28 — Second Brain
+# Day 28 — Brain
 
-30 günde 30 proje serisinin 28. günü. Notları, fikirleri, linkleri ve snippet'ları kaybetmeden hızla yakalamak için minimal bir "second brain" uygulaması.
+30 günde 30 proje serisinin 28. günü. Notları, fikirleri, linkleri ve snippet'ları kaybetmeden hızla yakalamak için minimal bir "Brain" uygulaması.
 
 ---
 
