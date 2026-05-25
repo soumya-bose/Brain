@@ -1,4 +1,4 @@
-# Second Brain
+# Brain
 Stop losing your ideas — capture notes, links, snippets, and thoughts in one searchable place.
 
 ---
@@ -55,4 +55,3 @@ npm run dev
 
 ## Privacy
 Everything runs **locally in your browser**.
-# second-brain
