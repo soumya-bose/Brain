@@ -4,7 +4,7 @@ Stop losing your ideas — capture notes, links, snippets, and thoughts in one s
 ---
 
 ## Live Demo
-https://second-brain-three-ashy.vercel.app/
+https://brain-ten-alpha.vercel.app/
 
 ---
 
