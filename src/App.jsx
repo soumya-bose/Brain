@@ -171,7 +171,7 @@ export default function App() {
       <header className="header">
         <div className="header-inner">
           <div className="header-left">
-            <span className="day-badge">Day 28</span>
+            
             <div>
               <h1 className="header-title">Brain</h1>
               <p className="header-sub">Notes, ideas, links & snippets</p>
