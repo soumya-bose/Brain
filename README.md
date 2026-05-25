@@ -45,8 +45,8 @@ https://second-brain-three-ashy.vercel.app/
 
 ## Installation
 ```bash
-git clone https://github.com/berkinyilmaz/second-brain.git
-cd second-brain
+git clone https://github.com/soumya-bose/Brain.git
+cd brain
 npm install
 npm run dev
 ```
